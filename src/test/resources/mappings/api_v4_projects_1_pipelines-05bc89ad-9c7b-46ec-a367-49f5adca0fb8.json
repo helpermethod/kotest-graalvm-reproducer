@@ -1,0 +1,24 @@
+{
+  "id" : "05bc89ad-9c7b-46ec-a367-49f5adca0fb8",
+  "name" : "api_v4_projects_1_pipelines",
+  "request" : {
+    "url" : "/api/v4/projects/1/pipelines?updated_before=2023-12-03T00%3A00%3A00Z&per_page=96&page=1",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "[]",
+    "headers" : {
+      "X-Next-Page" : "",
+      "X-Total" : "0",
+      "X-Page" : "1",
+      "X-Prev-Page" : "",
+      "X-Per-Page" : "96",
+      "X-Total-Pages" : "1",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "05bc89ad-9c7b-46ec-a367-49f5adca0fb8",
+  "persistent" : true,
+  "insertionIndex" : 4
+}
