@@ -55,11 +55,3 @@ The culprit object has been instantiated with the following trace:
         at io.kotest.runner.junit.platform.KotestJunitPlatformTestEngine.discover(KotestJunitPlatformTestEngine.kt:122)
         at io.kotest.runner.junit.platform.KotestJunitPlatformTestEngine.discover(KotestJunitPlatformTestEngine.kt:39)
 ```
-
-# Run nativeCompile
-
-```
-./gradlew -Pagent test
-./gradlew metadataCopy
-./gradlew nativeCompile
-```
